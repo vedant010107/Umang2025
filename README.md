@@ -18,6 +18,34 @@ This is a static website with pages for events, individual sports, team details,
 - Organized structure with reusable assets in `assets/`.
 - Suitable for fest publicity, participant info, and registrations.
 
+## Technologies Used
+
+- `HTML5`
+- `CSS3`
+- `JavaScript`
+- `jQuery`
+- `Tailwind CSS`
+- `Bootstrap`
+- `Sass (SCSS)`
+- `Google Fonts (Poppins)`
+- `Google Material Icons`
+- `Font Awesome`
+- `Owl Carousel`
+- `Slick`
+- `SlickNav`
+- `Magnific Popup`
+- `WOW.js`
+- `Animate.css`
+- `Nice Select`
+- `jQuery Sticky`
+- `jQuery Validate`
+- `jQuery Form`
+- `jQuery AjaxChimp`
+- `Gijgo`
+- `Python`
+- `Node.js`
+- `PowerShell`
+
 ## Main Pages
 
 - `index.html` - Home page
@@ -56,3 +84,4 @@ Contributions are welcome for:
 - UI improvements
 - Responsiveness and accessibility fixes
 - Sports page consistency updates
+  
